@@ -9,6 +9,32 @@
 }
 
 
+.green {
+  background-color: green;
+  color: white;
+}
+.blue {
+  background-color: blue;
+  color: white;
+}
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+.orange {
+  background-color: #f15a24;
+  color: white;
+}
+.linden {
+  background-color: #f15a24;
+  color: white;
+}
+.food-truck {
+background-color: black;
+color: white;
+}
+
+
 @media only screen and (max-width : 767px) {
 
   .navbar-brand img {

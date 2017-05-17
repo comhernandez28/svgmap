@@ -33,6 +33,10 @@
 background-color: black;
 color: white;
 }
+.purple {
+ background-color: purple;
+ color: white;
+}
 .navbar-brand {
   transform: translateX(-50%);
   left: 50%;
@@ -47,6 +51,9 @@ color: white;
 
   .navbar-brand img {
     width: 40px;
+  }
+  .hide-mobile {
+    display: none;
   }
 
 }

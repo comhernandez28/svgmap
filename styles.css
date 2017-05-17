@@ -33,6 +33,14 @@
 background-color: black;
 color: white;
 }
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+}
+.img-responsive {
+  margin: 0 auto;
+}
 
 
 @media only screen and (max-width : 767px) {
